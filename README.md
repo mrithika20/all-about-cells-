@@ -1,5 +1,4 @@
-#Cell counting+seeding calculator
-
+#Cell seeding calculator
 # Input: live cells from counter (side A & side B)
 side_A_live = float(input("Enter live cell value from side A: "))
 side_B_live = float(input("Enter live cell value from side B: "))
